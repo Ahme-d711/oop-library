@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/mohamed-elgedawy/Projects/New/oop-library/OopLibrary.csproj": {}
+    "/home/mohamed-elgedawy/Projects/New/new-oop/OopLibrary.csproj": {}
   },
   "projects": {
-    "/home/mohamed-elgedawy/Projects/New/oop-library/OopLibrary.csproj": {
+    "/home/mohamed-elgedawy/Projects/New/new-oop/OopLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mohamed-elgedawy/Projects/New/oop-library/OopLibrary.csproj",
+        "projectUniqueName": "/home/mohamed-elgedawy/Projects/New/new-oop/OopLibrary.csproj",
         "projectName": "OopLibrary",
-        "projectPath": "/home/mohamed-elgedawy/Projects/New/oop-library/OopLibrary.csproj",
+        "projectPath": "/home/mohamed-elgedawy/Projects/New/new-oop/OopLibrary.csproj",
         "packagesPath": "/home/mohamed-elgedawy/.nuget/packages/",
-        "outputPath": "/home/mohamed-elgedawy/Projects/New/oop-library/obj/",
+        "outputPath": "/home/mohamed-elgedawy/Projects/New/new-oop/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mohamed-elgedawy/.nuget/NuGet/NuGet.Config"
