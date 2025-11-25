@@ -1,26 +1,19 @@
-class TeacherMember : Person 
+namespace LibraryApp.Models;
+
+/// <summary>
+/// Teacher member class (inherits from Person)
+/// </summary>
+public class TeacherMember : Person
 {
-    private string _Department;
+    public string EmployeeId { get; set; }
+    public int MaxBooksAllowed { get; set; } = 5;
 
-    public string department
+    public TeacherMember(string name, string email, string employeeId) 
+        : base(name, email)
     {
-        get { return _Department; }
-       set 
-       {
-          if (value == "")
-                _Department = "Unknown";
-         else
-               _Department = value;
-       }
-
+        EmployeeId = employeeId;
     }
 
-    public TeacherMember(string name, int Id, string depart) : base(name, Id)
-    {
-        _Department = depart;
-    }
-    public override string GetInfo()
-    {
-        return $"Name: {name}, ID: {ID}, Department {_Department}";
-    }
+    public override string ToString() => $"Teacher: {base.ToString()} (ID: {this.EmployeeId})";
 }
+

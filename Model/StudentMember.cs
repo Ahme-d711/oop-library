@@ -1,16 +1,19 @@
- class StudentMember : Person
- {
-     public double Grade;
+namespace LibraryApp.Models;
 
-     public StudentMember(string name, int id, double grade) : base(name, id)
-     {
-         Grade = grade;
-     }
+/// <summary>
+/// Student member class (inherits from Person)
+/// </summary>
+public class StudentMember : Person
+{
+    public string StudentId { get; set; }
+    public int MaxBooksAllowed { get; set; } = 3;
 
-     public override string GetInfo() 
-     {
-         return $"Name: {name}, ID: {ID}, Grade: {Grade}";
+    public StudentMember(string name, string email, string studentId) 
+        : base(name, email)
+    {
+        StudentId = studentId;
+    }
 
-     }
+    public override string ToString() => $"Student: {base.ToString()} (ID: {this.StudentId})";
+}
 
- }
