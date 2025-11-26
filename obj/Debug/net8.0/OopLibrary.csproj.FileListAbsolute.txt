@@ -42,3 +42,18 @@
 /home/mohamed-elgedawy/Projects/New/new-oop/bin/Debug/net8.0/OopLibrary.pdb
 /home/mohamed-elgedawy/Projects/New/new-oop/obj/Debug/net8.0/OopLibrary.genruntimeconfig.cache
 /home/mohamed-elgedawy/Projects/New/new-oop/obj/Debug/net8.0/ref/OopLibrary.dll
+d:\OOP project\oop-library\bin\Debug\net8.0\OopLibrary.exe
+d:\OOP project\oop-library\bin\Debug\net8.0\OopLibrary.deps.json
+d:\OOP project\oop-library\bin\Debug\net8.0\OopLibrary.runtimeconfig.json
+d:\OOP project\oop-library\bin\Debug\net8.0\OopLibrary.dll
+d:\OOP project\oop-library\bin\Debug\net8.0\OopLibrary.pdb
+d:\OOP project\oop-library\obj\Debug\net8.0\OopLibrary.GeneratedMSBuildEditorConfig.editorconfig
+d:\OOP project\oop-library\obj\Debug\net8.0\OopLibrary.AssemblyInfoInputs.cache
+d:\OOP project\oop-library\obj\Debug\net8.0\OopLibrary.AssemblyInfo.cs
+d:\OOP project\oop-library\obj\Debug\net8.0\OopLibrary.csproj.CoreCompileInputs.cache
+d:\OOP project\oop-library\obj\Debug\net8.0\OopLibrary.sourcelink.json
+d:\OOP project\oop-library\obj\Debug\net8.0\OopLibrary.dll
+d:\OOP project\oop-library\obj\Debug\net8.0\refint\OopLibrary.dll
+d:\OOP project\oop-library\obj\Debug\net8.0\OopLibrary.pdb
+d:\OOP project\oop-library\obj\Debug\net8.0\OopLibrary.genruntimeconfig.cache
+d:\OOP project\oop-library\obj\Debug\net8.0\ref\OopLibrary.dll
